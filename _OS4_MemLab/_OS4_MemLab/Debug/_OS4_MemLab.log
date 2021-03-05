@@ -1,0 +1,3 @@
+﻿  main.cpp
+H:\_OS4_MemLab\_OS4_MemLab\main.cpp(25): warning C4715: Seek: значение возвращается не при всех путях выполнения
+  _OS4_MemLab.vcxproj -> H:\_OS4_MemLab\Debug\_OS4_MemLab.exe
