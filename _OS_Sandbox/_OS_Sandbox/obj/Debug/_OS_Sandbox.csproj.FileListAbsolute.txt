@@ -1,0 +1,7 @@
+H:\_OS_Sandbox\_OS_Sandbox\bin\Debug\_OS_Sandbox.exe.config
+H:\_OS_Sandbox\_OS_Sandbox\bin\Debug\_OS_Sandbox.exe
+H:\_OS_Sandbox\_OS_Sandbox\bin\Debug\_OS_Sandbox.pdb
+H:\_OS_Sandbox\_OS_Sandbox\obj\Debug\_OS_Sandbox.csprojAssemblyReference.cache
+H:\_OS_Sandbox\_OS_Sandbox\obj\Debug\_OS_Sandbox.csproj.CoreCompileInputs.cache
+H:\_OS_Sandbox\_OS_Sandbox\obj\Debug\_OS_Sandbox.exe
+H:\_OS_Sandbox\_OS_Sandbox\obj\Debug\_OS_Sandbox.pdb

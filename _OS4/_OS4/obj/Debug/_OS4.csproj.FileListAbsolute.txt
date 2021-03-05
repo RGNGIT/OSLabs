@@ -1,0 +1,10 @@
+H:\_OS4\_OS4\bin\Debug\_OS4.exe.config
+H:\_OS4\_OS4\bin\Debug\_OS4.exe
+H:\_OS4\_OS4\bin\Debug\_OS4.pdb
+H:\_OS4\_OS4\obj\Debug\_OS4.csprojAssemblyReference.cache
+H:\_OS4\_OS4\obj\Debug\_OS4.Form1.resources
+H:\_OS4\_OS4\obj\Debug\_OS4.Properties.Resources.resources
+H:\_OS4\_OS4\obj\Debug\_OS4.csproj.GenerateResource.cache
+H:\_OS4\_OS4\obj\Debug\_OS4.csproj.CoreCompileInputs.cache
+H:\_OS4\_OS4\obj\Debug\_OS4.exe
+H:\_OS4\_OS4\obj\Debug\_OS4.pdb
